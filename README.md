@@ -1,0 +1,2 @@
+# GeneraliOSApp
+iOS App Test
